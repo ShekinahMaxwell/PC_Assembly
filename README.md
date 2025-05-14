@@ -43,7 +43,7 @@ This tutorial outlines the re-assembly of a Shuttle XPC tower. Why? To gain a be
 <!--img width="1303" alt="01" src="https://github.com/user-attachments/assets/3561ff38-ed3f-4417-86c6-b9846e3b7321"-->
 </p>
 <p>
-...
+  Installed a Graphics Card and attached the screws
 </p>
 <br />
 
